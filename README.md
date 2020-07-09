@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jung-han/jung-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Front-End Developer (Junior)
 
-Here are some ideas to get you started:
+🏠 Seoul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📮 hanjungv@gmail.com 
+
+🔗 GitHub: [https://github.com/jung-han](https://github.com/jung-han)      
+
+🔗 Blog: [https://medium.com/@junghan_61455](https://medium.com/@junghan_61455) 
+
+🔗 linkedin: [https://www.linkedin.com/in/jung-han-819501125/](https://www.linkedin.com/in/jung-han-819501125/)
+
+👀 https://www.notion.so/Han-Jung-c43f4bcd2b3f4b3d85b93aee41c5e098
