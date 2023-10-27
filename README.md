@@ -3,7 +3,7 @@ _Hi, there 👋_
 * Front-End Developer @LINE+
 * Seoul, South Korea
 * hanjungv@gmail.com
-* https://medium.com/@junghan_61455
+* https://medium.com/@junghan92
 * https://www.linkedin.com/in/jung-han-819501125
 * https://careerly.co.kr/@jung.han
 * https://kofearticle.substack.com/
