@@ -1,6 +1,6 @@
 _Hi, there 👋_
 
-* Front-End Developer @LINE+
+* Front-End Developer @Upbit
 * Seoul, South Korea
 * hanjungv@gmail.com
 * https://medium.com/@junghan92
